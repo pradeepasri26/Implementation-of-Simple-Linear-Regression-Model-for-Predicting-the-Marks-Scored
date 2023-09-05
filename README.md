@@ -93,7 +93,6 @@ print('Values of MSE')
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 
 ![Screenshot (86)](https://github.com/pradeepasri26/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/131433142/d5fa1fcc-0d58-4046-a262-b0a05d648b22)
 
